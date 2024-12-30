@@ -1,0 +1,22 @@
+Project:
+- Reactjs
+- Typescript
+- Axios
+- Library UI: any 
+- dayjs
+
+--------------
+1. Login admin (done) 
+2. CRUD vendors (done) 
+3. CRUD categories  (done)
+4. CRUD discount code ()
+mini project
+
+fix: 
+- validation login (done) - có token là login không cần phải đăng nhập lại
+- thumbnail là ảnh  không url 
+- add new discount : productid phải là select một mảng (done)
+
+- edit:  discount thiếu codeId nên không thể edit.
+
+- sửa lai call api : dung api.ts của mentor cho sẵn tránh lặp lại token gửi header (done)
